@@ -1,7 +1,5 @@
 # S M Alif Ahmmed Helper Package
 
-### Latest Stable Version | Total Downloads | License
-
 ## Introduction 🖖
 This is a simple Laravel helper package that includes various helper functions like file uploads, slug generation, and JSON responses. It aims to make development faster and easier by providing ready-to-use utilities.
 
