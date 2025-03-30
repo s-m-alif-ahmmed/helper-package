@@ -1,9 +1,9 @@
 {
-    "name": "alifahmmed/helperpackage",
+    "name": "alifahmmed/helpers-package",
     "type": "library",
     "description": "A Laravel helper package for file uploads, slug generation, and JSON responses",
     "keywords": ["helper", "package", "laravel", "file upload", "slug generation", "json responses"],
-    "homepage": "https://github.com/s-m-alif-ahmmed/helper-package",
+    "homepage": "https://github.com/s-m-alif-ahmmed/helpers-package",
     "license": "MIT",
     "version": "1.0.1",
     "authors": [
@@ -20,16 +20,16 @@
     },
     "autoload": {
         "psr-4": {
-            "ALifAhmmed\\HelperPackage\\": "src/"
+            "AlifAhmmed\\HelperPackage\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ALifAhmmed\\HelperPackage\\HelperServiceProvider"
+                "AlifAhmmed\\HelperPackage\\HelperServiceProvider"
             ],
             "aliases": {
-                "Helper": "ALifAhmmed\\HelperPackage\\Helpers\\Helper"
+                "Helper": "AlifAhmmed\\HelperPackage\\Helpers\\Helper"
             }
         }
     },

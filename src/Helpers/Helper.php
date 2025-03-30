@@ -1,6 +1,6 @@
 <?php
 
-namespace ALifAhmmed\HelperPackage\Helpers;
+namespace AlifAhmmed\HelpersPackage\Helpers;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Str;

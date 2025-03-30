@@ -1,9 +1,9 @@
 <?php
 
-namespace ALifAhmmed\HelperPackage;
+namespace AlifAhmmed\HelpersPackage;
 
 use Illuminate\Support\ServiceProvider;
-use ALifAhmmed\HelperPackage\Helpers\Helper;
+use AlifAhmmed\HelpersPackage\Helpers\Helper;
 
 class HelperServiceProvider extends ServiceProvider
 {
